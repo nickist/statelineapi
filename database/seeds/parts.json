@@ -1,0 +1,51 @@
+
+[
+    {
+      "id": 1,
+      "name": "Capsules",
+      "fk_game_id": 1,
+      "weight": 0.012,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 2,
+      "name": "Dragon Ball",
+      "fk_game_id": 1,
+      "weight": 0.012,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 3,
+      "name": "Radar",
+      "fk_game_id": 1,
+      "weight": 0.012,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 4,
+      "name": "Sword",
+      "fk_game_id": 1,
+      "weight": 0.012,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 5,
+      "name": "Saiyan Armor",
+      "fk_game_id": 1,
+      "weight": 0.012,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 6,
+      "name": "Shell",
+      "fk_game_id": 1,
+      "weight": 0.012,
+      "created_at": null,
+      "updated_at": null
+    }
+  ]

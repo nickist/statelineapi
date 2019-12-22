@@ -1,0 +1,267 @@
+
+[
+    {
+      "id": 1,
+      "name": "Dragon Ball Z",
+      "type": "MON",
+      "quantity": 250,
+      "setWeight": 0.096,
+      "fk_houseColor_id": 31,
+      "fk_hotelColor_id": 2,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 2,
+      "name": "Zelda",
+      "type": "MON",
+      "quantity": 350,
+      "setWeight": 0.072,
+      "fk_houseColor_id": 35,
+      "fk_hotelColor_id": 16,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 3,
+      "name": "Golden Girls",
+      "type": "MON",
+      "quantity": 225,
+      "setWeight": 0.11,
+      "fk_houseColor_id": 16,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 4,
+      "name": "Rudolph",
+      "type": "MON",
+      "quantity": 275,
+      "setWeight": 0.088,
+      "fk_houseColor_id": 16,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 5,
+      "name": "Walking Dead",
+      "type": "MON",
+      "quantity": 250,
+      "setWeight": 0.098,
+      "fk_houseColor_id": 34,
+      "fk_hotelColor_id": 2,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 6,
+      "name": "Lord of The Rings",
+      "type": "MON",
+      "quantity": 500,
+      "setWeight": 0.038,
+      "fk_houseColor_id": 23,
+      "fk_hotelColor_id": 35,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 7,
+      "name": "Family Guy",
+      "type": "MON",
+      "quantity": 400,
+      "setWeight": 0.062,
+      "fk_houseColor_id": 13,
+      "fk_hotelColor_id": 10,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 8,
+      "name": "Marvel",
+      "type": "MON",
+      "quantity": 250,
+      "setWeight": 0.096,
+      "fk_houseColor_id": 34,
+      "fk_hotelColor_id": 2,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 9,
+      "name": "Mercedes",
+      "type": "MON",
+      "quantity": 200,
+      "setWeight": 0.118,
+      "fk_houseColor_id": 16,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 10,
+      "name": "Fallout",
+      "type": "MON",
+      "quantity": 300,
+      "setWeight": 0.082,
+      "fk_houseColor_id": 3,
+      "fk_hotelColor_id": 16,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 11,
+      "name": "Supernatural",
+      "type": "MON",
+      "quantity": 325,
+      "setWeight": 0.076,
+      "fk_houseColor_id": 34,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 12,
+      "name": "Spider-Man",
+      "type": "MON",
+      "quantity": 425,
+      "setWeight": 0.058,
+      "fk_houseColor_id": 10,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 13,
+      "name": "Nintendo",
+      "type": "MON",
+      "quantity": 475,
+      "setWeight": 0.052,
+      "fk_houseColor_id": 31,
+      "fk_hotelColor_id": 2,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 14,
+      "name": "WWII",
+      "type": "MON",
+      "quantity": 250,
+      "setWeight": 0.096,
+      "fk_houseColor_id": 3,
+      "fk_hotelColor_id": 17,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 15,
+      "name": "Bobs Burgers",
+      "type": "MON",
+      "quantity": 225,
+      "setWeight": 0.106,
+      "fk_houseColor_id": 16,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 16,
+      "name": "National Parks",
+      "type": "MON",
+      "quantity": 425,
+      "setWeight": 0.058,
+      "fk_houseColor_id": 3,
+      "fk_hotelColor_id": 16,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 17,
+      "name": "Yellow Stone",
+      "type": "MON",
+      "quantity": 325,
+      "setWeight": 0.078,
+      "fk_houseColor_id": 16,
+      "fk_hotelColor_id": 3,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 18,
+      "name": "War Hammer",
+      "type": "MON",
+      "quantity": 400,
+      "setWeight": 0.064,
+      "fk_houseColor_id": 9,
+      "fk_hotelColor_id": 1,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 19,
+      "name": "Animaniacs",
+      "type": "MON",
+      "quantity": 500,
+      "setWeight": 0.045,
+      "fk_houseColor_id": 27,
+      "fk_hotelColor_id": 37,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 20,
+      "name": "My Hero Academia Game Stop",
+      "type": "MON",
+      "quantity": 475,
+      "setWeight": 0.054,
+      "fk_houseColor_id": 25,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 21,
+      "name": "IT Game Stop",
+      "type": "MON",
+      "quantity": 450,
+      "setWeight": 0.056,
+      "fk_houseColor_id": 25,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 22,
+      "name": "My Hero Academia",
+      "type": "MON",
+      "quantity": 475,
+      "setWeight": 0.052,
+      "fk_houseColor_id": 25,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 23,
+      "name": "IT",
+      "type": "MON",
+      "quantity": 475,
+      "setWeight": 0.052,
+      "fk_houseColor_id": 25,
+      "fk_hotelColor_id": 31,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 24,
+      "name": "Nightmare Before Christmas",
+      "type": "MON",
+      "quantity": 375,
+      "setWeight": 0.068,
+      "fk_houseColor_id": 31,
+      "fk_hotelColor_id": 34,
+      "created_at": null,
+      "updated_at": null
+    }
+  ]

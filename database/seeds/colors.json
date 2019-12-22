@@ -1,0 +1,299 @@
+
+[
+  {
+    "id": 1,
+    "name": "Royal Blue",
+    "sku": "UN5027",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "name": "White",
+    "sku": "UN0001*",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 3,
+    "name": "DK Brown",
+    "sku": "CPP-B2441-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 4,
+    "name": "Bright Yellow",
+    "sku": "CPP-Y1766-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 5,
+    "name": "Dark Green",
+    "sku": "CPP-G4065-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 6,
+    "name": "Terra Cotta",
+    "sku": "CPP-B2659-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 7,
+    "name": "Tan",
+    "sku": "CPP-B2732-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 8,
+    "name": "Daffodil yellow",
+    "sku": "UN1637",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 9,
+    "name": "Cherry Red",
+    "sku": "UN3788",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 10,
+    "name": "Mid Blue",
+    "sku": "UN5011",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 11,
+    "name": "Powder Blue",
+    "sku": "UN5009",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 12,
+    "name": "Springtime",
+    "sku": "UN66072",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 13,
+    "name": "Seville Orange",
+    "sku": "UN2239",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 14,
+    "name": "Chocolate Brown",
+    "sku": "UN8004",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 15,
+    "name": "Honey Beige",
+    "sku": "UN88723",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 16,
+    "name": "Green",
+    "sku": "UN6994",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 17,
+    "name": "Gray 431C",
+    "sku": "PPC-GY1188-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 18,
+    "name": "Ivory",
+    "sku": "UN1704",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 19,
+    "name": "Banana",
+    "sku": "UN1693",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 20,
+    "name": "Purple",
+    "sku": "UN55094",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 21,
+    "name": "Rose Pink",
+    "sku": "UN3365",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 22,
+    "name": "Marine Blue",
+    "sku": "UN66088",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 23,
+    "name": "Silver",
+    "sku": "UN0701",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 24,
+    "name": "Cornflower Blue",
+    "sku": "UN55162",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 25,
+    "name": "Green",
+    "sku": "PPC-G81116-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 26,
+    "name": "Green 368C",
+    "sku": "PPC-GR1206-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 27,
+    "name": "Brown 131C",
+    "sku": "PPC-BR1294-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 28,
+    "name": "Gray 7530C",
+    "sku": "PPC-GY1284-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 29,
+    "name": "Green 576C",
+    "sku": "PPC-GR1266-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 30,
+    "name": "Shreck Green",
+    "sku": "CPP-G3719-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 31,
+    "name": "Red",
+    "sku": "CPP-R3178-2",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 32,
+    "name": "Yellow 123C",
+    "sku": "PPC-YE1095-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 33,
+    "name": "Light Purple",
+    "sku": "PPC-BL1316-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 34,
+    "name": "Black",
+    "sku": "PPC-BK1071-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 35,
+    "name": "Gold",
+    "sku": "PPC-ME1037-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 36,
+    "name": "Red 179C",
+    "sku": "PPC-RE1264-1",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 37,
+    "name": "Sky Blue",
+    "sku": "UN5001*",
+    "weight": 0,
+    "created_at": null,
+    "updated_at": null
+  }
+]
